@@ -6,7 +6,6 @@ This repository contains code for the reprsentation proposed in [Graph Hawkes Ne
 ```
 $ conda create -n ghnn python=3.6 anaconda
 ```
-- Run
 ```
 $ source activate ghnn
 ```
