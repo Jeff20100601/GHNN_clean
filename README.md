@@ -5,8 +5,6 @@ This repository contains code for the reprsentation proposed in [Graph Hawkes Ne
 - Create a conda environment:
 ```
 $ conda create -n ghnn python=3.6 anaconda
-```
-```
 $ source activate ghnn
 ```
 - Change directory to the GHNN folder
